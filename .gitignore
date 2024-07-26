@@ -72,3 +72,4 @@ DEV_UE5_Course_RD/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DEV_UE5_Course_RD/DerivedDataCache/*
+/DEV_UE5_Course_RD/Content/Level_01/Models/Forest_pack
